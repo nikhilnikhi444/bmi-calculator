@@ -54,6 +54,7 @@ function App() {
    setIsHeight(true)
    setBMI(0)
    setAlert("")
+   setAge(0)
  }
 
  const handleclick =()=>{
